@@ -1,0 +1,61 @@
+prescription_id,record_id,medication_name,dosage,frequency,duration,notes
+501,401,Lisinopril,10mg,Once daily,30 days,Take in the morning
+502,402,Sumatriptan,50mg,As needed,30 days,Take at onset of migraine
+503,403,Ibuprofen,200mg,Every 4-6 hours,14 days,Take with food
+504,404,Hydrocortisone cream,1%,Apply twice daily,7 days,Avoid sun exposure
+505,405,Oseltamivir,75mg,Once daily,5 days,Take with water
+506,406,Paclitaxel,80mg/m2,Every 3 weeks,12 weeks,Administered in clinic
+507,407,Metformin,500mg,Once daily,30 days,Monitor blood glucose
+508,408,Midazolam,2mg,Once,Pre-surgery,Administered in clinic
+509,409,Omeprazole,20mg,Once daily,14 days,Avoid spicy foods
+510,410,Tobramycin,0.3%,Every 2 hours,7 days,Avoid touching eyes
+511,411,Aspirin,81mg,Once daily,30 days,Take with food
+512,412,Levetiracetam,500mg,Every 12 hours,30 days,Monitor seizure activity
+513,413,Paracetamol,500mg,Every 6 hours,14 days,Do not exceed dose
+514,414,Adapalene,0.1%,Apply once daily,30 days,Apply at bedtime
+515,415,Salbutamol,100mcg,As needed,30 days,Shake well before use
+516,416,Cisplatin,75mg/m2,Every 3 weeks,12 weeks,Administered in clinic
+517,417,Levothyroxine,50mcg,Once daily,30 days,Take on empty stomach
+518,418,Propofol,2mg/kg,Once,Pre-surgery,Administered in clinic
+519,419,Loperamide,2mg,As needed,30 days,Take with water
+520,420,Latanoprost,0.005%,Once daily,30 days,Apply in the evening
+521,421,Atorvastatin,20mg,Once daily,30 days,Take at bedtime
+522,422,Verapamil,80mg,Every 8 hours,30 days,Take with food
+523,423,Ibuprofen,400mg,Every 6 hours,14 days,Take with food
+524,424,Diphenhydramine,25mg,Every 6 hours,7 days,Avoid driving
+525,425,MMR vaccine,0.5ml,Once,Single dose,Administered in clinic
+526,426,Doxorubicin,60mg/m2,Every 3 weeks,12 weeks,Administered in clinic
+527,427,Methimazole,5mg,Every 8 hours,30 days,Take with water
+528,428,Propofol,2mg/kg,Once,Pre-surgery,Administered in clinic
+529,429,Bismuth subsalicylate,262mg,Every 6 hours,14 days,Avoid dairy
+530,430,Timolol,0.5%,Twice daily,30 days,Apply in the morning and evening
+531,431,Isosorbide mononitrate,20mg,Every 12 hours,30 days,Do not crush or chew
+532,432,Clonazepam,0.5mg,Every 12 hours,30 days,Take at bedtime
+533,433,Acetaminophen,650mg,Every 6 hours,14 days,Do not exceed dose
+534,434,Benzoyl peroxide,2.5%,Apply once daily,30 days,Apply at bedtime
+535,435,Vitamins and minerals,One tablet,Once daily,30 days,Take with food
+536,436,Pembrolizumab,200mg,Every 3 weeks,12 weeks,Administered in clinic
+537,437,Metformin,500mg,Once daily,30 days,Monitor blood glucose
+538,438,Midazolam,2mg,Once,Pre-surgery,Administered in clinic
+539,439,Esomeprazole,20mg,Once daily,14 days,Avoid alcohol
+540,440,Prednisolone,5mg,Once daily,30 days,Take in the morning
+541,441,Amiodarone,200mg,Once daily,30 days,Monitor heart rate
+542,442,Phenytoin,100mg,Every 8 hours,30 days,Take with food
+543,443,Tramadol,50mg,Every 6 hours,14 days,Do not exceed dose
+544,444,Hydroquinone,4%,Apply once daily,30 days,Apply at bedtime
+545,445,MMR vaccine,0.5ml,Once,Single dose,Administered in clinic
+546,446,Nivolumab,240mg,Every 2 weeks,12 weeks,Administered in clinic
+547,447,Metformin,500mg,Once daily,30 days,Monitor blood glucose
+548,448,Propofol,2mg/kg,Once,Pre-surgery,Administered in clinic
+549,449,Bismuth subsalicylate,262mg,Every 6 hours,14 days,Avoid dairy
+550,450,Latanoprost,0.005%,Once daily,30 days,Apply in the evening
+551,451,Enalapril,10mg,Once daily,30 days,Take in the morning
+552,452,Sumatriptan,50mg,As needed,30 days,Take at onset of migraine
+553,453,Ibuprofen,200mg,Every 4-6 hours,14 days,Take with food
+554,454,Hydrocortisone cream,1%,Apply twice daily,7 days,Avoid sun exposure
+555,455,Oseltamivir,75mg,Once daily,5 days,Take with water
+556,456,Paclitaxel,80mg/m2,Every 3 weeks,12 weeks,Administered in clinic
+557,457,Metformin,500mg,Once daily,30 days,Monitor blood glucose
+558,458,Midazolam,2mg,Once,Pre-surgery,Administered in clinic
+559,459,Omeprazole,20mg,Once daily,14 days,Avoid spicy foods
+560,460,Tobramycin,0.3%,Every 2 hours,7 days,Avoid touching eyes

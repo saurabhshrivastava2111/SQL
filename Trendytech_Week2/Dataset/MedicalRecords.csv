@@ -1,0 +1,61 @@
+record_id,patient_id,doctor_id,visit_date,diagnosis,treatment,notes
+401,1,201,7/1/2024,Hypertension,Medication,Monitor blood pressure daily
+402,2,202,7/2/2024,Migraine,Pain relief medication,Avoid trigger foods
+403,3,203,7/3/2024,Arthritis,Physical therapy,Follow-up in 2 weeks
+404,4,204,7/4/2024,Eczema,Topical cream,Apply twice daily
+405,5,205,7/5/2024,Flu,Rest and fluids,Stay hydrated
+406,6,206,7/6/2024,Breast cancer,Chemotherapy,Next session in 3 weeks
+407,7,207,7/7/2024,Diabetes,Insulin therapy,Monitor blood sugar levels
+408,8,208,7/8/2024,Pre-op assessment,Anesthesia evaluation,Fit for surgery
+409,9,209,7/9/2024,Gastritis,Antacids,Avoid spicy foods
+410,10,210,7/10/2024,Conjunctivitis,Antibiotic drops,Avoid touching eyes
+411,11,211,7/11/2024,Coronary artery disease,Medication,Regular exercise
+412,12,212,7/12/2024,Epilepsy,Anticonvulsant,Track seizure activity
+413,13,213,7/13/2024,Fractured leg,Cast,Healing well
+414,14,214,7/14/2024,Psoriasis,Topical ointment,Avoid scratching
+415,15,215,7/15/2024,Asthma,Inhaler,Use as needed
+416,16,216,7/16/2024,Cervical cancer,Radiation therapy,Side effects managed
+417,17,217,7/17/2024,Hypothyroidism,Thyroid medication,Adjust dosage
+418,18,218,7/18/2024,Pre-anesthesia checkup,Anesthesia consultation,Cleared for surgery
+419,19,219,7/19/2024,IBS,Dietary changes,Avoid high-fiber foods
+420,20,220,7/20/2024,Glaucoma,Eye drops,Follow-up in 1 month
+421,21,221,7/21/2024,Heart failure,Medication,Monitor symptoms
+422,22,222,7/22/2024,Cluster headaches,Pain management,Avoid alcohol
+423,23,223,7/23/2024,ACL tear,Surgery,Rehabilitation plan
+424,24,224,7/24/2024,Allergic dermatitis,Antihistamines,Keep skin hydrated
+425,25,225,7/25/2024,Child wellness check,Vaccination,Next visit in 6 months
+426,26,226,7/26/2024,Chemotherapy session,Cancer treatment,Side effects minimal
+427,27,227,7/27/2024,Hyperthyroidism,Medication,Monitor thyroid levels
+428,28,228,7/28/2024,Pre-op consultation,Surgical evaluation,Ready for procedure
+429,29,229,7/29/2024,Gastroenteritis,Oral rehydration,Stay hydrated
+430,30,230,7/30/2024,Vision impairment,Corrective lenses,Update prescription
+431,31,231,8/1/2024,Angina,Medication,Avoid strenuous activities
+432,32,232,8/2/2024,Seizure disorder,Anticonvulsant,Adjust medication
+433,33,233,8/3/2024,Spinal stenosis,Physical therapy,Follow-up in 1 month
+434,34,234,8/4/2024,Acne,Topical gel,Avoid oily foods
+435,35,235,8/5/2024,Child growth delay,Nutritional supplements,Monitor progress
+436,36,236,8/6/2024,Cancer,Oncology review,Stable condition
+437,37,237,8/7/2024,Diabetes,Endocrinology review,Adjust medication
+438,38,238,8/8/2024,Pre-op anesthesia,Anesthesia evaluation,Cleared for surgery
+439,39,239,8/9/2024,Peptic ulcer,Proton pump inhibitors,Avoid caffeine
+440,40,240,8/10/2024,Retinal detachment,Eye surgery,Recovery progressing well
+441,41,241,8/11/2024,Cardiac arrhythmia,Medication,Monitor heart rate
+442,42,242,8/12/2024,Epilepsy management,Neurology follow-up,Stable condition
+443,43,243,8/13/2024,Spinal injury,Surgery,Rehabilitation plan
+444,44,244,8/14/2024,Skin pigmentation,Topical treatment,Improving
+445,45,245,8/15/2024,Child growth monitoring,Pediatric assessment,Progressing well
+446,46,246,8/16/2024,Cancer ,Oncology follow-up,Stable
+447,47,247,8/17/2024,Diabetes,Endocrinology consultation,Medication adjustment
+448,48,248,8/18/2024,Anesthesia review,Pre-op evaluation,Fit for surgery
+449,49,249,8/19/2024,Gastric,Gastroenterology follow-up,Improving condition
+450,50,250,8/20/2024,Eye surgery,Post-op evaluation,Recovering well
+451,51,201,8/21/2024,Hypertension,Medication adjustment,Blood pressure stable
+452,52,202,8/22/2024,Migraine,Pain management,Triggers identified
+453,53,203,8/23/2024,Joint pain,Physical therapy,Improvement noted
+454,54,204,8/24/2024,Skin infection,Topical cream,Healing well
+455,55,205,8/25/2024,Child health check,Wellness assessment,Healthy
+456,56,206,8/26/2024,Cancer ,Chemotherapy session,Stable condition
+457,57,207,8/27/2024,Endocrine disorder,Thyroid medication,Levels improving
+458,58,208,8/28/2024,Anesthesia consultation,Pre-op checkup,Ready for surgery
+459,59,209,8/29/2024,Gastric,Antacids,Improving condition
+460,60,210,8/30/2024,Eye irritation,Eye drops,Symptoms resolved

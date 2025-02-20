@@ -1,0 +1,63 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,reason
+301,1,201,7/1/2024,9:00:00,Completed,Regular checkup
+302,2,202,7/2/2024,10:00:00,Cancelled,Follow-up
+303,3,203,7/3/2024,11:00:00,Completed,Orthopedic consultation
+304,4,204,7/4/2024,14:00:00,Completed,Skin rash
+305,5,205,7/5/2024,15:00:00,Pending,Child vaccination
+306,6,206,7/6/2024,9:00:00,Completed,Cancer screening
+307,7,207,7/7/2024,10:00:00,Completed,Thyroid test
+308,8,208,7/8/2024,11:00:00,Completed,Pre-surgery consultation
+309,9,209,7/9/2024,14:00:00,Cancelled,Stomach pain
+310,10,210,7/10/2024,15:00:00,Completed,Eye checkup
+311,11,211,7/11/2024,9:00:00,Completed,Heart disease management
+312,12,212,7/12/2024,10:00:00,Completed,Neurology consultation
+313,13,213,7/13/2024,11:00:00,Pending,Orthopedic surgery
+314,14,214,7/14/2024,14:00:00,Completed,Acne treatment
+315,15,215,7/15/2024,15:00:00,Completed,Child growth monitoring
+316,16,216,7/16/2024,9:00:00,Completed,Cancer follow-up
+317,17,217,7/17/2024,10:00:00,Completed,Diabetes management
+318,18,218,7/18/2024,11:00:00,Completed,Pre-anesthesia consultation
+319,19,219,7/19/2024,14:00:00,Cancelled,Indigestion
+320,20,220,7/20/2024,15:00:00,Completed,Eye infection
+321,21,221,7/21/2024,9:00:00,Completed,Heart checkup
+322,22,222,7/22/2024,10:00:00,Completed,Migraine treatment
+323,23,223,7/23/2024,11:00:00,Pending,Knee pain
+324,24,224,7/24/2024,14:00:00,Completed,Eczema treatment
+325,25,225,7/25/2024,15:00:00,Completed,Child immunization
+326,26,226,7/26/2024,9:00:00,Completed,Chemotherapy
+327,27,227,7/27/2024,10:00:00,Completed,Thyroid follow-up
+328,28,228,7/28/2024,11:00:00,Completed,Surgical consultation
+329,29,229,7/29/2024,14:00:00,Cancelled,Gastrointestinal issues
+330,30,230,7/30/2024,15:00:00,Completed,Eye examination
+331,31,231,8/1/2024,9:00:00,Completed,Cardiology follow-up
+332,32,232,8/2/2024,10:00:00,Completed,Neurological exam
+333,33,233,8/3/2024,11:00:00,Pending,Bone fracture
+334,34,234,8/4/2024,14:00:00,Completed,Dermatitis
+335,35,235,8/5/2024,15:00:00,Completed,Child health check
+336,36,236,8/6/2024,9:00:00,Completed,Oncology checkup
+337,37,237,8/7/2024,10:00:00,Completed,Endocrine test
+338,38,238,8/8/2024,11:00:00,Completed,Pre-op assessment
+339,39,239,8/9/2024,14:00:00,Cancelled,Abdominal pain
+340,40,240,8/10/2024,15:00:00,Completed,Vision test
+341,41,241,8/11/2024,9:00:00,Completed,Heart surgery consultation
+342,42,242,8/12/2024,10:00:00,Completed,Seizure management
+343,43,243,8/13/2024,11:00:00,Pending,Spine injury
+344,44,244,8/14/2024,14:00:00,Completed,Pigmentation treatment
+345,45,245,8/15/2024,15:00:00,Completed,Child growth assessment
+346,46,246,8/16/2024,9:00:00,Completed,Cancer treatment review
+347,47,247,8/17/2024,10:00:00,Completed,Diabetes checkup
+348,48,248,8/18/2024,11:00:00,Completed,Pre-surgery evaluation
+349,49,249,8/19/2024,14:00:00,Cancelled,Stomach pain
+350,50,250,8/20/2024,15:00:00,Completed,Eye surgery
+351,51,201,8/21/2024,9:00:00,Completed,General checkup
+352,52,202,8/22/2024,10:00:00,Completed,Follow-up consultation
+353,53,203,8/23/2024,11:00:00,Completed,Joint pain
+354,54,204,8/24/2024,14:00:00,Completed,Skin infection
+355,55,205,8/25/2024,15:00:00,Pending,Child health assessment
+356,56,206,8/26/2024,9:00:00,Completed,Cancer treatment
+357,57,207,8/27/2024,10:00:00,Completed,Endocrine disorder
+358,58,208,8/28/2024,11:00:00,Completed,Pre-anesthesia consultation
+359,59,209,8/29/2024,14:00:00,Cancelled,Gastric issue
+360,60,210,8/30/2024,15:00:00,Completed,Eye irritation
+361,21,214,5/19/2024,17:00:00,Completed,Acne treatment
+362,21,209,8/11/2023,11:00:00,Pending,Acidity

@@ -1,0 +1,45 @@
+drug_id,medication_name,manufacturer,price,stock_quantity
+3001,Lisinopril,ABC Pharma,5.00,100
+3002,Sumatriptan,XYZ Pharmaceuticals,10.00,50
+3003,Ibuprofen,ABC Pharma,2.50,200
+3004,Hydrocortisone cream,DEF Labs,8.00,150
+3005,Oseltamivir,MedicineCo,15.00,75
+3006,Paclitaxel,XYZ Pharmaceuticals,100.00,20
+3007,Metformin,HealthMeds,3.00,300
+3008,Midazolam,Pharma Plus,20.00,30
+3009,Omeprazole,ABC Pharma,5.00,150
+3010,Tobramycin,MediPharm,12.00,50
+3011,Aspirin,HealthMeds,1.00,500
+3012,Levetiracetam,ABC Pharma,7.50,100
+3013,Paracetamol,HealthMeds,3.00,400
+3014,Adapalene,SkinCare Inc.,15.00,75
+3015,Salbutamol,HealthMeds,5.00,200
+3016,Cisplatin,OncologyPharma,500.00,10
+3017,Levothyroxine,HealthMeds,2.00,100
+3018,Propofol,Anesthesia Ltd.,50.00,50
+3019,Loperamide,HealthMeds,6.00,80
+3020,Latanoprost,EyeCare Corp.,25.00,30
+3021,Atorvastatin,HealthMeds,4.00,200
+3022,Verapamil,HealthMeds,6.00,150
+3023,Diphenhydramine,HealthMeds,3.50,100
+3024,MMR vaccine,Vaccines Ltd.,50.00,50
+3025,Doxorubicin,OncologyPharma,200.00,15
+3026,Methimazole,HealthMeds,8.00,120
+3027,Bismuth subsalicylate,HealthMeds,7.00,90
+3028,Timolol,EyeCare Corp.,18.00,40
+3029,Isosorbide mononitrate,HealthMeds,10.00,80
+3030,Clonazepam,HealthMeds,5.50,150
+3031,Acetaminophen,HealthMeds,3.00,300
+3032,Benzoyl peroxide,HealthMeds,10.00,50
+3033,Vitamins and minerals,HealthMeds,5.00,200
+3034,Pembrolizumab,OncologyPharma,5000.00,5
+3035,Esomeprazole,ABC Pharma,4.50,100
+3036,Prednisolone,HealthMeds,6.00,120
+3037,Amiodarone,HealthMeds,8.00,80
+3038,Phenytoin,HealthMeds,7.00,150
+3039,Tramadol,HealthMeds,4.00,200
+3040,Hydroquinone,SkinCare Inc.,15.00,50
+3041,Nivolumab,OncologyPharma,10000.00,10
+3042,Enalapril,HealthMeds,4.00,50
+3043,Doxorubicin,OncologyPharma,200.00,75
+3044,Phenytoin,HealthMeds,7.00,100

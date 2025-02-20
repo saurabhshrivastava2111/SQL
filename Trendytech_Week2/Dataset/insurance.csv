@@ -1,0 +1,66 @@
+insurance_id,insurance_provider,policy_number,coverage_details,expiry_date
+101,Blue Cross,BC1234567,Full coverage,12/31/2025
+102,Aetna,AE7654321,Partial coverage,11/30/2024
+103,UnitedHealthcare,UH24681012,Full coverage,10/31/2025
+104,Cigna,CG1357911,Partial coverage,9/30/2024
+105,Kaiser Permanente,KP9876543,Full coverage,8/31/2025
+106,Humana,HM1928374,Partial coverage,7/31/2024
+107,WellCare,WC5647382,Full coverage,6/30/2025
+108,Anthem,AN9182736,Partial coverage,5/31/2024
+109,Blue Shield,BS0192837,Full coverage,4/30/2025
+110,Molina,MO2135465,Partial coverage,3/31/2024
+111,Highmark,HM6574839,Full coverage,2/28/2025
+112,EmblemHealth,EH7482910,Partial coverage,1/31/2024
+113,Centene,CE3647285,Full coverage,12/31/2024
+114,Magellan,MG5364729,Partial coverage,11/30/2024
+115,Amerigroup,AG2736458,Full coverage,10/31/2024
+116,Priority Health,PH8374651,Partial coverage,9/30/2024
+117,Oscar Health,OH1947365,Full coverage,8/31/2024
+118,Fidelis Care,FC1827364,Partial coverage,7/31/2024
+119,Health Net,HN5362917,Full coverage,6/30/2024
+120,Medica,MD7482910,Partial coverage,5/31/2024
+121,Community Health,CH0928374,Full coverage,4/30/2024
+122,Harvard Pilgrim,HP3847561,Partial coverage,3/31/2024
+123,Geisinger,GE1827365,Full coverage,2/29/2024
+124,Independence Blue,IB7482910,Partial coverage,1/31/2024
+125,PacificSource,PS3647285,Full coverage,12/31/2023
+126,MetroPlus,MP5364729,Partial coverage,11/30/2023
+127,Quartz,QU2736458,Full coverage,10/31/2023
+128,Dean Health,DH8374651,Partial coverage,9/30/2023
+129,UPMC Health,UP1827364,Full coverage,8/31/2023
+130,Optima Health,OP5362917,Partial coverage,7/31/2023
+131,SelectHealth,SH7482910,Full coverage,6/30/2023
+132,Affinity Health,AH0928374,Partial coverage,5/31/2023
+133,HealthPartners,HP3847561,Full coverage,4/30/2023
+134,Meridian Health,MH1827365,Partial coverage,3/31/2023
+135,Security Health,SE7482910,Full coverage,2/28/2023
+136,Summacare,SU3647285,Partial coverage,1/31/2023
+137,UCare,UC5364729,Full coverage,12/31/2022
+138,HAP,HP2736458,Partial coverage,11/30/2022
+139,CareSource,CS8374651,Full coverage,10/31/2022
+140,Florida Blue,FB1827364,Partial coverage,9/30/2022
+141,AvMed,AM5362917,Full coverage,8/31/2022
+142,Health Alliance,HA7482910,Partial coverage,7/31/2022
+143,Peach State,PS0928374,Full coverage,6/30/2022
+144,Sanford Health,SH3847561,Partial coverage,5/31/2022
+145,Tufts Health,TH1827365,Full coverage,4/30/2022
+146,UnitedHealthcare,UH7482910,Partial coverage,3/31/2022
+147,Wellmark,WE3647285,Full coverage,2/28/2022
+148,AmeriHealth,AH5364729,Partial coverage,1/31/2022
+149,CareFirst,CF2736458,Full coverage,12/31/2021
+150,Coventry Health,CH8374651,Partial coverage,11/30/2021
+151,Healthfirst,HF1827364,Full coverage,10/31/2021
+152,Lifewise,LF5362917,Partial coverage,9/30/2021
+153,Regence,RE7482910,Full coverage,8/31/2021
+154,Wellcare,WE0928374,Partial coverage,7/31/2021
+155,Medicare,MC3847561,Full coverage,6/30/2021
+156,Medicaid,MD1827365,Partial coverage,5/31/2021
+157,TRICARE,TR7482910,Full coverage,4/30/2021
+158,VA Health,VH3647285,Partial coverage,3/31/2021
+159,Children's Health,CH5364729,Full coverage,2/28/2021
+160,Community Care,CC2736458,Partial coverage,1/31/2021
+161,Medicare,MC3847563,Partial coverage,10/10/2024
+162,MetroPlus,MP5364729,Full coverage,11/12/2024
+163,Wellcare,WE0928375,Full coverage,2/28/2024
+164,Priority Health,PH8374651,Partial coverage,12/12/2025
+165,Medicare,MC3847565,Full coverage,7/23/2025
